@@ -1,0 +1,26 @@
+Pityna System Dialogue Log: 2022-09-01 13:09::16
+> あ
+pityna:Pattern>何か忘れてることない？
+Pityna System Dialogue Log: 2022-09-01 14:09::17
+> Hello
+pityna:Pattern>10円おちてた
+Pityna System Dialogue Log: 2022-09-01 14:09::02
+> Nice to meet you
+pityna:Pattern>あなたはパリピ？
+Pityna System Dialogue Log: 2022-09-21 11:09::10
+> a
+pityna:Pattern>そんなこと知らないもん
+> b
+pityna:Repeat?>bってなに？
+> c
+pityna:Random>まじすか
+> v
+pityna:Repeat?>vってなに？
+> b
+pityna:Pattern>ヘビメタ好き？
+> かわいい
+pityna:Pattern>かわいいって言った！？ 言った！？
+> かわいい
+pityna:Pattern>かわいいって言った！？ 言った！？
+> かわいい
+pityna:Pattern>本当にかわいい?
